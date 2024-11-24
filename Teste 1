@@ -1,0 +1,5 @@
+#include <stdio.h>
+
+int main(void){
+  printf("A matéria de Linguagem da Programação é boa demais");
+}
